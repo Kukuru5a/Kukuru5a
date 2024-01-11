@@ -1,0 +1,338 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"8c043b75-f245-40dd-91b9-2f4d8c9074f7\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <task path=\"$PROJECT_DIR$\">\n          <activation />\n        </task>\n        <projects_view>\n          <tree_state>\n            <expand>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"app\" type=\"f1a62948:ProjectNode\" />\n              </path>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"app\" type=\"f1a62948:ProjectNode\" />\n                <item name=\"Tasks\" type=\"e4a08cd1:TasksNode\" />\n              </path>\n            </expand>\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n        <option value=\"HTML File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$/..\" value=\"draft\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/mockwebserver/4.11.0/aa45049fa91c2bad69b2b4b87967a0143c9dba31/mockwebserver-4.11.0-sources.jar!/okhttp3/mockwebserver/MockWebServer.kt\" root0=\"SKIP_INSPECTION\" />\n    <setting file=\"jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/5.0.1/9a803965be1f6709795aeaf17d7a71c18791dcda/HikariCP-5.0.1-sources.jar!/com/zaxxer/hikari/HikariConfig.java\" root0=\"SKIP_INSPECTION\" />\n    <setting file=\"jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/5.0.1/9a803965be1f6709795aeaf17d7a71c18791dcda/HikariCP-5.0.1-sources.jar!/com/zaxxer/hikari/HikariDataSource.java\" root0=\"SKIP_INSPECTION\" />\n    <setting file=\"jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/5.0.1/9a803965be1f6709795aeaf17d7a71c18791dcda/HikariCP-5.0.1-sources.jar!/com/zaxxer/hikari/pool/HikariPool.java\" root0=\"SKIP_INSPECTION\" />\n    <setting file=\"jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gg.jte/jte-runtime/3.1.4/836424672363dd9960d819b994e2d0b9b01acd6e/jte-runtime-3.1.4-sources.jar!/gg/jte/TemplateEngine.java\" root0=\"SKIP_INSPECTION\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2X4PEWzFnzyf7YMLfRumTiS9TG4\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"settings.editor.selected.configurable\": \"preferences.lookFeel\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n      <recent name=\"$PROJECT_DIR$/src\" />\n      <recent name=\"$PROJECT_DIR$/src/main/resources/templates/urls\" />\n      <recent name=\"$PROJECT_DIR$/src/main/resources/templates\" />\n      <recent name=\"$PROJECT_DIR$/src/main/resources/Templates\" />\n    </key>\n  </component>\n  <component name=\"RunAnythingCache\">\n    <option name=\"myCommands\">\n      <command value=\"gradle run\" />\n      <command value=\"gradle installDist\" />\n      <command value=\"gradle checkstyleMain\" />\n      <command value=\"gradle checkstyleTest\" />\n      <command value=\"gradle jacocoTestReport\" />\n    </option>\n  </component>\n  <component name=\"RunManager\" selected=\"Makefile Target.report\">\n    <configuration name=\"app [jacocoTestReport]\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\"jacocoTestReport\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\n      <DebugAllEnabled>false</DebugAllEnabled>\n      <ForceTestExec>false</ForceTestExec>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"image-push\" type=\"MAKEFILE_TARGET_RUN_CONFIGURATION\" factoryName=\"Makefile\" temporary=\"true\">\n      <makefile filename=\"$PROJECT_DIR$/Makefile\" target=\"image-push\" workingDirectory=\"\" arguments=\"\">\n        <envs />\n      </makefile>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"lint\" type=\"MAKEFILE_TARGET_RUN_CONFIGURATION\" factoryName=\"Makefile\" temporary=\"true\">\n      <makefile filename=\"$PROJECT_DIR$/Makefile\" target=\"lint\" workingDirectory=\"\" arguments=\"\">\n        <envs />\n      </makefile>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"report\" type=\"MAKEFILE_TARGET_RUN_CONFIGURATION\" factoryName=\"Makefile\" temporary=\"true\">\n      <makefile filename=\"$PROJECT_DIR$/Makefile\" target=\"report\" workingDirectory=\"\" arguments=\"\">\n        <envs />\n      </makefile>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"test\" type=\"MAKEFILE_TARGET_RUN_CONFIGURATION\" factoryName=\"Makefile\" temporary=\"true\">\n      <makefile filename=\"$PROJECT_DIR$/Makefile\" target=\"test\" workingDirectory=\"\" arguments=\"\">\n        <envs />\n      </makefile>\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"docker-deploy\" factoryName=\"dockerfile\" temporary=\"true\">\n      <deployment type=\"dockerfile\">\n        <settings />\n      </deployment>\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Makefile Target.report\" />\n        <item itemvalue=\"Gradle.app [jacocoTestReport]\" />\n        <item itemvalue=\"Makefile Target.lint\" />\n        <item itemvalue=\"Makefile Target.test\" />\n        <item itemvalue=\"Makefile Target.image-push\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"8c043b75-f245-40dd-91b9-2f4d8c9074f7\" name=\"Changes\" comment=\"\" />\n      <created>1697885267746</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1697885267746</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"main\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/dto/BasePage.java</url>\n          <line>9</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/dto/BasePage.java</url>\n          <line>12</line>\n          <option name=\"timeStamp\" value=\"4\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>92</line>\n          <option name=\"timeStamp\" value=\"10\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>93</line>\n          <option name=\"timeStamp\" value=\"11\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>94</line>\n          <option name=\"timeStamp\" value=\"12\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>95</line>\n          <option name=\"timeStamp\" value=\"13\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>96</line>\n          <option name=\"timeStamp\" value=\"14\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>97</line>\n          <option name=\"timeStamp\" value=\"15\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>100</line>\n          <option name=\"timeStamp\" value=\"16\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>101</line>\n          <option name=\"timeStamp\" value=\"17\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>102</line>\n          <option name=\"timeStamp\" value=\"19\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>103</line>\n          <option name=\"timeStamp\" value=\"20\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>104</line>\n          <option name=\"timeStamp\" value=\"21\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>106</line>\n          <option name=\"timeStamp\" value=\"22\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>107</line>\n          <option name=\"timeStamp\" value=\"23\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>110</line>\n          <option name=\"timeStamp\" value=\"24\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>111</line>\n          <option name=\"timeStamp\" value=\"25\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>108</line>\n          <option name=\"timeStamp\" value=\"26\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>112</line>\n          <option name=\"timeStamp\" value=\"27\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>114</line>\n          <option name=\"timeStamp\" value=\"28\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>115</line>\n          <option name=\"timeStamp\" value=\"29\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>116</line>\n          <option name=\"timeStamp\" value=\"30\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>117</line>\n          <option name=\"timeStamp\" value=\"31\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>118</line>\n          <option name=\"timeStamp\" value=\"32\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>120</line>\n          <option name=\"timeStamp\" value=\"33\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>121</line>\n          <option name=\"timeStamp\" value=\"34\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>122</line>\n          <option name=\"timeStamp\" value=\"35\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>124</line>\n          <option name=\"timeStamp\" value=\"36\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>22</line>\n          <option name=\"timeStamp\" value=\"39\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>23</line>\n          <option name=\"timeStamp\" value=\"40\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>24</line>\n          <option name=\"timeStamp\" value=\"41\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>26</line>\n          <option name=\"timeStamp\" value=\"42\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>27</line>\n          <option name=\"timeStamp\" value=\"43\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>28</line>\n          <option name=\"timeStamp\" value=\"44\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>30</line>\n          <option name=\"timeStamp\" value=\"46\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>29</line>\n          <option name=\"timeStamp\" value=\"47\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>31</line>\n          <option name=\"timeStamp\" value=\"48\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>32</line>\n          <option name=\"timeStamp\" value=\"49\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/App.java</url>\n          <line>66</line>\n          <option name=\"timeStamp\" value=\"50\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>82</line>\n          <option name=\"timeStamp\" value=\"53\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>85</line>\n          <option name=\"timeStamp\" value=\"54\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>87</line>\n          <option name=\"timeStamp\" value=\"55\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>88</line>\n          <option name=\"timeStamp\" value=\"56\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>\n          <line>89</line>\n          <option name=\"timeStamp\" value=\"57\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>\n          <line>87</line>\n          <option name=\"timeStamp\" value=\"63\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>\n          <line>88</line>\n          <option name=\"timeStamp\" value=\"64\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>\n          <line>90</line>\n          <option name=\"timeStamp\" value=\"65\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>\n          <line>91</line>\n          <option name=\"timeStamp\" value=\"66\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>\n          <line>92</line>\n          <option name=\"timeStamp\" value=\"67\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-field\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/dto/BasePage.java</url>\n          <line>10</line>\n          <properties field=\"flash\" class=\"hexlet.code.dto.BasePage\" />\n          <option name=\"timeStamp\" value=\"2\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-field\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/dto/BasePage.java</url>\n          <line>11</line>\n          <properties field=\"flashType\" class=\"hexlet.code.dto.BasePage\" />\n          <option name=\"timeStamp\" value=\"3\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-method\">\n          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>\n          <line>21</line>\n          <properties class=\"hexlet.code.models.UrlCheck\" method=\"&lt;init&gt;\">\n            <option name=\"EMULATED\" value=\"true\" />\n            <option name=\"WATCH_EXIT\" value=\"false\" />\n          </properties>\n          <option name=\"timeStamp\" value=\"38\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-method\">\n          <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>\n          <line>86</line>\n          <properties class=\"hexlet.code.AppTest\" method=\"testUniqueUrlValidation\">\n            <option name=\"EMULATED\" value=\"true\" />\n            <option name=\"WATCH_EXIT\" value=\"false\" />\n          </properties>\n          <option name=\"timeStamp\" value=\"62\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -70,15 +70,15 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "main",
+-    "settings.editor.selected.configurable": "preferences.lookFeel"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$" />
+@@ -97,8 +97,21 @@
+       <command value="gradle jacocoTestReport" />
+     </option>
+   </component>
+-  <component name="RunManager" selected="Makefile Target.report">
+-    <configuration name="app [jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++  <component name="RunManager" selected="Gradle.AppTest">
++    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="hexlet.code.App" />
++      <module name="app.main" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="hexlet.code.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="AppTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+@@ -109,27 +122,63 @@
+         </option>
+         <option name="taskNames">
+           <list>
+-            <option value="jacocoTestReport" />
++            <option value=":test" />
++            <option value="--tests" />
++            <option value="&quot;hexlet.code.AppTest&quot;" />
+           </list>
+         </option>
+         <option name="vmOptions" />
+       </ExternalSystemSettings>
+-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
++      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+       <DebugAllEnabled>false</DebugAllEnabled>
+-      <ForceTestExec>false</ForceTestExec>
++      <ForceTestExec>true</ForceTestExec>
+       <method v="2" />
+     </configuration>
+-    <configuration name="image-push" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+-      <makefile filename="$PROJECT_DIR$/Makefile" target="image-push" workingDirectory="" arguments="">
+-        <envs />
+-      </makefile>
++    <configuration name="AppTest.testMakeCheck" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" value="" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value=":test" />
++            <option value="--tests" />
++            <option value="&quot;hexlet.code.AppTest.testMakeCheck&quot;" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <ForceTestExec>true</ForceTestExec>
+       <method v="2" />
+     </configuration>
+-    <configuration name="lint" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+-      <makefile filename="$PROJECT_DIR$/Makefile" target="lint" workingDirectory="" arguments="">
+-        <envs />
+-      </makefile>
++    <configuration name="app [jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" value="" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value="jacocoTestReport" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <ForceTestExec>false</ForceTestExec>
+       <method v="2" />
+     </configuration>
+     <configuration name="report" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+@@ -138,12 +187,6 @@
+       </makefile>
+       <method v="2" />
+     </configuration>
+-    <configuration name="test" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+-      <makefile filename="$PROJECT_DIR$/Makefile" target="test" workingDirectory="" arguments="">
+-        <envs />
+-      </makefile>
+-      <method v="2" />
+-    </configuration>
+     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+       <deployment type="dockerfile">
+         <settings />
+@@ -152,11 +195,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Gradle.AppTest" />
++        <item itemvalue="Gradle.AppTest.testMakeCheck" />
++        <item itemvalue="Application.App" />
+         <item itemvalue="Makefile Target.report" />
+         <item itemvalue="Gradle.app [jacocoTestReport]" />
+-        <item itemvalue="Makefile Target.lint" />
+-        <item itemvalue="Makefile Target.test" />
+-        <item itemvalue="Makefile Target.image-push" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -208,136 +251,6 @@
+           <option name="timeStamp" value="4" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>92</line>
+-          <option name="timeStamp" value="10" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>93</line>
+-          <option name="timeStamp" value="11" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>94</line>
+-          <option name="timeStamp" value="12" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>95</line>
+-          <option name="timeStamp" value="13" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>96</line>
+-          <option name="timeStamp" value="14" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>97</line>
+-          <option name="timeStamp" value="15" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>100</line>
+-          <option name="timeStamp" value="16" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>101</line>
+-          <option name="timeStamp" value="17" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>102</line>
+-          <option name="timeStamp" value="19" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>103</line>
+-          <option name="timeStamp" value="20" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>104</line>
+-          <option name="timeStamp" value="21" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>106</line>
+-          <option name="timeStamp" value="22" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>107</line>
+-          <option name="timeStamp" value="23" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>110</line>
+-          <option name="timeStamp" value="24" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>111</line>
+-          <option name="timeStamp" value="25" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>108</line>
+-          <option name="timeStamp" value="26" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>112</line>
+-          <option name="timeStamp" value="27" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>114</line>
+-          <option name="timeStamp" value="28" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>115</line>
+-          <option name="timeStamp" value="29" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>116</line>
+-          <option name="timeStamp" value="30" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>117</line>
+-          <option name="timeStamp" value="31" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>118</line>
+-          <option name="timeStamp" value="32" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>120</line>
+-          <option name="timeStamp" value="33" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>121</line>
+-          <option name="timeStamp" value="34" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>122</line>
+-          <option name="timeStamp" value="35" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/controllers/UrlController.java</url>
+-          <line>124</line>
+-          <option name="timeStamp" value="36" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+           <url>file://$PROJECT_DIR$/src/main/java/hexlet/code/models/UrlCheck.java</url>
+           <line>22</line>
+           <option name="timeStamp" value="39" />
+@@ -419,27 +332,27 @@
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+           <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>
+-          <line>87</line>
++          <line>88</line>
+           <option name="timeStamp" value="63" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+           <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>
+-          <line>88</line>
++          <line>89</line>
+           <option name="timeStamp" value="64" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+           <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>
+-          <line>90</line>
++          <line>91</line>
+           <option name="timeStamp" value="65" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+           <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>
+-          <line>91</line>
++          <line>92</line>
+           <option name="timeStamp" value="66" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-line">
+           <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>
+-          <line>92</line>
++          <line>93</line>
+           <option name="timeStamp" value="67" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-field">
+@@ -465,7 +378,7 @@
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-method">
+           <url>file://$PROJECT_DIR$/src/test/java/hexlet/code/AppTest.java</url>
+-          <line>86</line>
++          <line>87</line>
+           <properties class="hexlet.code.AppTest" method="testUniqueUrlValidation">
+             <option name="EMULATED" value="true" />
+             <option name="WATCH_EXIT" value="false" />
