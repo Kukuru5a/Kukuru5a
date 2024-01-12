@@ -1,17 +1,20 @@
 package hexlet.code.models;
+import hexlet.code.repositories.UrlCheckRepository;
 
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+import java.sql.SQLException;
 import java.sql.Timestamp;
+import java.util.Optional;
 
 @Getter
 @Setter
 @ToString
-public class Url {
+public final class Url {
 
-    private static Long id;
+    private Long id;
     @ToString.Include
     private String name;
     private Timestamp createdAt;
@@ -24,13 +27,5 @@ public class Url {
     public Url(String name, Timestamp createdAt) {
         this.name = name;
         this.createdAt = createdAt;
-    }
-
-    public static Long getId() {
-        return id;
-    }
-
-    public static void setId(Long id) {
-        Url.id = id;
     }
 }
