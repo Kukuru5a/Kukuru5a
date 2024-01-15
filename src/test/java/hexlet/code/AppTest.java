@@ -56,7 +56,7 @@ public final class AppTest {
         JavalinTest.test(app, ((server, client) -> {
             String requestBody = "url=" + fistCorrectUrl;
             var response = client.post("/urls", requestBody);
-            var urls = UrlRepository.getEntities();
+            var urls = UrlRepository.getUrls();
             assertThat(response.code()).isEqualTo(200);
             assertThat(response.body().string()).contains("https://ru.hexlet.io");
             assertThat(urls.size()).isEqualTo(1);
@@ -70,7 +70,7 @@ public final class AppTest {
             String requestBody = "url=" + incorrectUrl;
             var response = client.post("/urls", requestBody);
             assertThat(response.code()).isEqualTo(200);
-            assertThat(UrlRepository.getEntities().size()).isEqualTo(0);
+            assertThat(UrlRepository.getUrls().size()).isEqualTo(0);
         }));
     }
 
@@ -84,7 +84,7 @@ public final class AppTest {
             var response = client.get("/urls");
             assertThat(response.code()).isEqualTo(200);
             assertThat(response.body().string()).contains("hexlet").contains("github");
-            assertThat(UrlRepository.getEntities().size()).isEqualTo(2);
+            assertThat(UrlRepository.getUrls().size()).isEqualTo(2);
         }));
     }
 
@@ -118,7 +118,7 @@ public final class AppTest {
         JavalinTest.test(app, (server, client) -> {
             var response = client.post("/urls/" + testUrl.getId() + "/checks");
             assertThat(response.code()).isEqualTo(200);
-            var lastCheck = UrlCheckRepository.find(testUrl.getId()).get();
+            var lastCheck = UrlCheckRepository.getLastCheck(testUrl.getId()).get();
             assertThat(lastCheck.getStatusCode()).isEqualTo(200);
             assertThat(lastCheck.getTitle()).isEqualTo("Sample title");
             assertThat(lastCheck.getH1()).isEqualTo("Sample header");

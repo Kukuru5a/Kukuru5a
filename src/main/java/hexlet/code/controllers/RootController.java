@@ -15,3 +15,4 @@ public class RootController {
         ctx.render("index.jte", Map.of("flash", flash, "fType", fType));
     }
 }
+

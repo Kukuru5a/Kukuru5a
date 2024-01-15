@@ -15,7 +15,9 @@ import lombok.extern.slf4j.Slf4j;
 import java.io.IOException;
 import java.sql.SQLException;
 
-import static hexlet.code.AppUtils.*;
+import static hexlet.code.AppUtils.getDataBaseUrl;
+import static hexlet.code.AppUtils.getResourceFileAsString;
+import static hexlet.code.AppUtils.createTemplateEngine;
 
 
 @Slf4j
@@ -50,15 +52,16 @@ public class App {
         });
 
         //GET
-        app.get(NamedRoutes.homePagePath(), RootController::page);
-        app.get(NamedRoutes.sitesPath(), UrlController::urlList);
-        app.get(NamedRoutes.sitePagePath("{id}"), UrlController::showUrl);
+        app.get(NamedRoutes.mainPath(), RootController::page);
+        app.get(NamedRoutes.urlsPath(), UrlController::showUrlList);
+        app.get(NamedRoutes.urlPath("{id}"), UrlController::showUrl);
         //POST
-        app.post(NamedRoutes.sitesPath(), UrlController::addUrl);
-        app.post("/urls/{id}/checks", UrlController::checks);
+        app.post(NamedRoutes.urlsPath(), UrlController::createUrl);
+        app.post(NamedRoutes.urlChecksPath("{id}"), UrlChecksController::makeCheck);
         JavalinJte.init(createTemplateEngine());
         return app;
 
     }
 
 }
+

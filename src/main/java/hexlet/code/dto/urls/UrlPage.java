@@ -5,10 +5,8 @@ import hexlet.code.dto.BasePage;
 import hexlet.code.models.UrlCheck;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.ToString;
 
 import java.util.List;
-import java.util.Optional;
 
 
 @Getter

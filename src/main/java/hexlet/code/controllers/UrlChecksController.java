@@ -16,7 +16,7 @@ import java.sql.SQLException;
 public class UrlChecksController {
     public static void makeCheck(Context ctx) throws SQLException {
         var urlId = ctx.pathParamAsClass("id", Long.class).getOrDefault(null);
-        var url = UrlRepository.find(urlId)
+        var url = UrlRepository.findById(urlId)
                 .orElseThrow(() -> new NotFoundResponse("Url with id = " + urlId + " not found"));
         String name = url.getName();
         try {
@@ -32,11 +32,11 @@ public class UrlChecksController {
             UrlCheckRepository.save(urlCheck);
             ctx.sessionAttribute("flash", "Страница успешно проверена");
             ctx.sessionAttribute("color", "success");
-            ctx.redirect(NamedRoutes.sitePagePath(urlId));
+            ctx.redirect(NamedRoutes.urlPath(urlId));
         } catch (UnirestException e) {
             ctx.sessionAttribute("flash", "Некорректный адрес");
             ctx.sessionAttribute("color", "danger");
-            ctx.redirect(NamedRoutes.sitePagePath(urlId));
+            ctx.redirect(NamedRoutes.urlPath(urlId));
         }
     }
 }

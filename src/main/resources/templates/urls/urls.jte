@@ -1,4 +1,6 @@
+@import hexlet.code.AppUtils
 @import hexlet.code.dto.urls.UrlsPg
+@import hexlet.code.routes.NamedRoutes
 @param UrlsPg page
 
 @template.layout.page(
@@ -15,24 +17,25 @@ content = @`
                 <th class="col-1">Код ответа</th>
             </tr>
             </thead>
-            @if(!page.getUrlList().isEmpty())
+            @if(!page.getCheckMap().isEmpty())
                 <tbody>
-                @for(var url : page.getUrlList())
+                @for(var urlWithCheck : page.getCheckMap().entrySet())
                     <tr>
                         <td>
-                            ${url.getId()}
+                            ${urlWithCheck.getKey().getId()}
                         </td>
                         <td>
-                            <a href="urls/${url.getId()}">${url.getName()}</a>
+                            <a href="${NamedRoutes.urlPath(urlWithCheck.getKey().getId())}">
+                                ${urlWithCheck.getKey().getName()}</a>
                         </td>
                         <td>
-                            @if(UrlsPg.getUrlWithLastCheck() != null)
-                                ${String.valueOf(UrlsPg.getUrlWithLastCheck().getCreatedAt())}
+                            @if(urlWithCheck.getValue() != null)
+                                ${String.valueOf(urlWithCheck.getValue().getCreatedAt())}
                             @endif
                         </td>
                         <td>
-                            @if(UrlsPg.getUrlWithLastCheck() != null)
-                                ${UrlsPg.getUrlWithLastCheck().getStatusCode()}
+                            @if(urlWithCheck.getValue() != null)
+                                ${urlWithCheck.getValue().getStatusCode()}
                             @endif
                         </td>
                     </tr>

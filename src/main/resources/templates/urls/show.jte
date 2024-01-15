@@ -1,4 +1,6 @@
+@import hexlet.code.AppUtils
 @import hexlet.code.dto.urls.UrlPage
+@import hexlet.code.routes.NamedRoutes
 @param UrlPage page
 
 @template.layout.page(
@@ -23,7 +25,7 @@ content = @`
             </tbody>
         </table>
         <h2 class="mt-5">Проверки</h2>
-        <form method="post" action="/urls/${page.getUrl().getId()}/checks">
+        <form method="post" action="${NamedRoutes.urlPath(page.getUrl().getId())}/checks">
             <button type="submit" class="btn btn-primary">Запустить проверку</button>
         </form>
         <table class="table table-bordered table-hover mt-3">

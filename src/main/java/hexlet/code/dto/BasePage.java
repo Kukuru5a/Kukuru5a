@@ -11,3 +11,4 @@ public class BasePage {
     private String flash;
     private String color;
 }
+

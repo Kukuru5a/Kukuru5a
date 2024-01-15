@@ -1,6 +1,6 @@
 package gg.jte.generated.ondemand;
-import hexlet.code.dto.BasePage;
 import hexlet.code.routes.NamedRoutes;
+import hexlet.code.dto.BasePage;
 public final class JteindexGenerated {
 	public static final String JTE_NAME = "index.jte";
 	public static final int[] JTE_LINE_INFO = {0,0,1,2,2,2,4,4,7,7,13,13,13,13,13,13,13,13,32,32,32};
@@ -9,10 +9,10 @@ public final class JteindexGenerated {
 		gg.jte.generated.ondemand.layout.JtepageGenerated.render(jteOutput, jteHtmlInterceptor, new gg.jte.html.HtmlContent() {
 			public void writeTo(gg.jte.html.HtmlTemplateOutput jteOutput) {
 				jteOutput.writeContent("\n    <div class=\"container-fluid bg-dark p-5\">\n        <div class=\"row\">\n            <div class=\"col-md-10 col-lg-8 mx-auto text-white\">\n                <h1 class=\"display-3 mb-0\">Анализатор страниц</h1>\n                <p class=\"lead\">Бесплатно проверяйте сайты на SEO пригодность</p>\n                <form");
-				if (gg.jte.runtime.TemplateUtils.isAttributeRendered(NamedRoutes.sitesPath())) {
+				if (gg.jte.runtime.TemplateUtils.isAttributeRendered(NamedRoutes.urlsPath())) {
 					jteOutput.writeContent(" action=\"");
 					jteOutput.setContext("form", "action");
-					jteOutput.writeUserContent(NamedRoutes.sitesPath());
+					jteOutput.writeUserContent(NamedRoutes.urlsPath());
 					jteOutput.setContext("form", null);
 					jteOutput.writeContent("\"");
 				}
