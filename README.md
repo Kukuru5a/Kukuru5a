@@ -2,11 +2,17 @@
 ### 👨‍💻 About me:
   ![istockphoto-1341679381-450x450](https://github.com/Kukuru5a/Kukuru5a/assets/123395035/664d7e9d-f7c4-456a-8fe2-17afe37542d6)  
 
-I am a Junior Java Developer from Almaty, Kazakhstan, which is my current destination. I am engaged in reading professional literature and actively improving my skills. I am interested in the latest products in the field of Java and IT. I am **looking for a full-time job or internship** in my field.
+I am a Java Developer from Almaty, Kazakhstan, which is my current destination. I am engaged in reading professional literature and actively improving my skills. I am interested in the latest products in the field of Java and IT. I am **looking for a full-time job or internship** in my field.
 
 * 📝 **Education**: SWISSAM International University, Management
-* 💻 **Courses**: Hexlet Programming School, Java Developer
-* 💼 **Experience**: I have a few educational projects that you can explore in my GitHub repositories. Participating in open source project (Hexlet/correction)
+* 💼 **Experience**: Participating in open source project (Hexlet/correction).
+* Worked on a project for hiring personnel. Stack:
+- Java 17
+- Spring Framework
+- JUnit 5
+- Kubernetes
+- H2(In-Memory DB for tests)
+- PostgreSQL 
 
 ### ✨ Skills:
 
