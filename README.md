@@ -19,8 +19,10 @@ I am a Junior Java Developer from Almaty, Kazakhstan, which is my current destin
 ### 🖥 Applied:
 
 * Java Core, Java Collections Framework
-* Spring Boot, Javalin Frameworks
+* Spring Framework, Javalin Frameworks
+* Hibernate Framework
 * Test Automation by JUnit5
+* MockMVC
 * HTML, CSS (basics)
 * Work with Git, GitHub, building projects with Gradle
 * Bash
@@ -31,7 +33,7 @@ I am a Junior Java Developer from Almaty, Kazakhstan, which is my current destin
 * OOP and SOLID principles
 * Test-Driven Development (TDD)
 * Refactoring
-* Work with data bases, SQL
+* Work with data bases (PostgreSQL, H2, Redis), SQL
 
 ### ☎️ Contacts:
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zagorulya.roma@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/duuuudee)
